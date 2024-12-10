@@ -8,6 +8,8 @@
 	- String (texto)
  	- Boolean (boleano: verdadeiro ou falso)
 	- NaN (not a number)
+ 	- undefined
+  	- null
 - Vetores
 - Hoisting
 - Escopo
