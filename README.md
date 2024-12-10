@@ -23,3 +23,14 @@
 - Lógica Booleana
 - Operadores booleanos
 - truthy / falsy
+
+# Aula 03 - Controle de fluxo II
+
+- while
+- do-while
+
+# Aula 04 - Controle de fluxo III - Keyword for
+
+- for-of
+- for-in
+  - Objetos
