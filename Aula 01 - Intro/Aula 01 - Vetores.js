@@ -20,3 +20,4 @@ console.log(numerosPrimos)
 // console.log(nomesForadoEscopo) 
 
 // Irá retornar o erro: ReferenceError: nomesForadoEscopo is not defined
+
