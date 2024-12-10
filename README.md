@@ -14,3 +14,12 @@
 - Vetores - Agrupar informações em listas
 - Hoisting
 - Escopo
+
+# Aula 02 - Controle de fluxo I
+
+- Controle de fluxo
+- Condicionais
+- Ternários
+- Lógica Booleana
+- Operadores booleanos
+- truthy / falsy
