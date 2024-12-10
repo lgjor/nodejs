@@ -7,9 +7,10 @@
 	- Inteiro
 	- String (texto)
  	- Boolean (boleano: verdadeiro ou falso)
-	- NaN (not a number)
  	- undefined
   	- null
-- Vetores
+  	- NaN (not a number)
+- Operadores matemáticos
+- Vetores - Agrupar informações em listas
 - Hoisting
 - Escopo
