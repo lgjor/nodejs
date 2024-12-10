@@ -21,6 +21,10 @@ if ( numero2 <= numero1 ) { //menor ou igual
     console.log(`${numero2} é menor ou igual a ${numero1}`)
 }
 
+//= em javascript é atribuição
+//=== comparação do mesmo tipo > por isso é uma boa prática
+//== acusa que 20 e "20" são iguais, compara sem considerar tipos diferentes
 if (numero1 === numero2) {
     console.log('Os números são iguais')
 }
+
