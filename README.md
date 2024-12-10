@@ -6,6 +6,7 @@
 	- Real
 	- Inteiro
 	- String (texto)
+ 	- Boolean (boleano)
 	- NaN (not a number)
 - Vetores
 - Hoisting
