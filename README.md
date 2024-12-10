@@ -2,7 +2,7 @@
 
 - Variáveis
 - Constantes
-- Tipos
+- Principais tipos
 	- Real
 	- Inteiro
 	- String (texto)
