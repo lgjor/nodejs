@@ -1,5 +1,9 @@
 // Forma performática e rápida de fazer loops
 // Perde em legibilidade, é algo mais impertivo
+// Deve ser usado com listas, pois é menos verboso que o while
+// O while pode ser usado em casos em que o for não atende
+// O while pode ser usado quando não sabemos o final do loop
+
 const listaDeNumeros = [0, 111, 155, 555, 222, -23, -56]
 const listaDeUsuarios = ['José', 'Antônio', 'Paula']
 
