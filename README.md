@@ -1,4 +1,4 @@
-# Aula 01 - Introdução
+# Aula 03 - Introdução
 
 - Variáveis
 - Constantes
@@ -15,7 +15,7 @@
 - Hoisting
 - Escopo
 
-# Aula 02 - Controle de fluxo I
+# Aula 04 - Controle de fluxo I
 
 - Controle de fluxo
 - Condicionais
@@ -24,12 +24,12 @@
 - Operadores booleanos
 - truthy / falsy
 
-# Aula 03 - Controle de fluxo II
+# Aula 05 - Controle de fluxo II
 
 - while
 - do-while
 
-# Aula 04 - Controle de fluxo III - Keyword for
+# Aula 06 - Controle de fluxo III - Keyword for
 
 - for-of
 - for-in
