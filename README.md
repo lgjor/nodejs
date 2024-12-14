@@ -1,4 +1,4 @@
-# Aula 03 - Introdução
+#com Aula 03 - Introdução
 
 - Variáveis
 - Constantes
@@ -38,3 +38,21 @@
 ## Documentação Javascript MDN
 
 <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript>
+
+## Aula 11 - Node 1
+
+- Módulo IO (input output)
+  - prompt
+  - arquivos
+- Módulo console
+- Env (variáveis de ambiente)
+- Módulos de rede (buscar e interagir com recursos remotos)
+  - dns
+  - http
+  - https
+  - querystring
+  - url
+- Módulo Crypto (hashs) (interação com hashs)
+- Datas/horários
+  - Luxon
+
