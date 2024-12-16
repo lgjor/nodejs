@@ -39,6 +39,9 @@
 
 <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript>
 
+Status code:
+  <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
+
 ## Aula 11 - Node 1
 
 - Módulo IO (input output)
@@ -55,4 +58,3 @@
 - Módulo Crypto (hashs) (interação com hashs)
 - Datas/horários
   - Luxon
-
