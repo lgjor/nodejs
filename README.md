@@ -67,3 +67,15 @@ Status code:
   - Atributos
   - Métodos
   - Encapsulamento
+
+## Aula 15 - Programação Orientada a Objetos II
+
+- Interfaces
+  - O que são?
+- Herança
+- Composição
+- Utility Tipes do TypeScript
+  - Omit
+  - Partial
+  - Required
+  - Readonly
