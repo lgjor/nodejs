@@ -8,7 +8,7 @@
 // usando a forma criada, com a palavra new
 // o new executa o código do construtor
 
-type Produto = {
+export type Produto = {
     nome: string
     valor: number
 }
@@ -28,7 +28,7 @@ type Produto = {
 
 // Método 2 de declaração de classes
 
-class Estabelecimento {
+class EstabelecimentoBase {
     private _filaDeEspera = 10
     
     constructor(
@@ -92,7 +92,7 @@ const padaria = {
             }
 }
 
-const padaria3 = new Estabelecimento('Rua Dos Laranjais, 1230, bloco A',
+const padaria3 = new EstabelecimentoBase('Rua Dos Laranjais, 1230, bloco A',
     'alimentação',
     [
         {nome:'banana', valor: 8},
@@ -102,7 +102,7 @@ const padaria3 = new Estabelecimento('Rua Dos Laranjais, 1230, bloco A',
     3
 )
 
-const padaria4 = new Estabelecimento('Rua Dos Morangos, 1230',
+const padaria4 = new EstabelecimentoBase('Rua Dos Morangos, 1230',
     'alimentação',
     [],
     27

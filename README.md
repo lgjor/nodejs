@@ -72,6 +72,8 @@ Status code:
 
 - Interfaces
   - O que são?
+- Import/Export (esmodules modules)
+- Const/Require (commonjs)
 - Herança
 - Composição
 - Utility Tipes do TypeScript
@@ -79,3 +81,6 @@ Status code:
   - Partial
   - Required
   - Readonly
+
+Mixins docs:
+  <https://www.typescriptlang.org/docs/handbook/mixins.html>
