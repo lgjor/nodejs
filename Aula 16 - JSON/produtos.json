@@ -1,0 +1,12 @@
+[
+  {
+    "amountInStock": 500,
+    "name": "T-shirt",
+    "unitValue": 45
+  },
+  {
+    "amountInStock": 100,
+    "name": "Pair of Socks",
+    "unitValue": 5
+  }
+]

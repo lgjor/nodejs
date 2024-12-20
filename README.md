@@ -1,4 +1,16 @@
-#com Aula 03 - Introdução
+# Aula 01 - Instalaçoes
+
+- Visual Studio Code
+  - Extensões
+    - Code runner
+- Node.js
+- NPM
+  - TypeScript - `npm i -g typescript` 
+  - ts-node,tsx `npm i -g tsx` Converte Javascript para typescript no ambiente dev
+- Linter
+  - Eslint, prettier
+
+# Aula 03 - Introdução
 
 - Variáveis
 - Constantes
@@ -84,3 +96,16 @@ Status code:
 
 Mixins docs:
   <https://www.typescriptlang.org/docs/handbook/mixins.html>
+
+## Aula 16 - JSON
+
+- JSON
+  - Organização
+  - Sintaxe
+  - Boas práticas
+
+- TypeScript
+  - Omit
+  - Partial
+  - Required
+  - Readonly
