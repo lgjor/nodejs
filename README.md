@@ -1,4 +1,6 @@
-# Aula 01 - Instalaçoes
+# Curso backend node.js
+
+## Aula 01 - Instalaçoes
 
 - Visual Studio Code
   - Extensões
@@ -10,7 +12,19 @@
 - Linter
   - Eslint, prettier
 
-# Aula 03 - Introdução
+## Aula 02 - Arquitetura Cliente-Servidor para WEB
+
+- Linter
+  - eslint
+  - prettier
+- Protocolo HTTP(s)
+- Requests e responses
+- DNS
+- Código de status
+- Verbos (métodos) HTTP
+- Playload (headers e body)
+
+## Aula 03 - Introdução
 
 - Variáveis
 - Constantes
